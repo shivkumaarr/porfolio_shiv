@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Shiv Kumar 👋
-### Entry-Level Penetration Tester | VAPT | Red & Blue Team Enthusiast
+### Entry-Level Penetration Tester | VAPT | Red Team
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiv-kumar-0797733b1/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shivkumar)
